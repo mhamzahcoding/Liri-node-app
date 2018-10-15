@@ -1,0 +1,16 @@
+{
+  "name": "Liri-Node",
+  "version": "1.0.0",
+  "main": "liri.js",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
